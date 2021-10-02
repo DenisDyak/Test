@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="vvod">Введите число для скидки</string>
+    <string name="price">Введите цену</string>
+    <string name="add">Добавить</string>
+    <string name="percent">Процент скидки</string>
+    <string name="startPosition">Стартовая позиия</string>
+    <string name="number">Кол-во</string>
+    <string name="result_button">Рассчитать скидку</string>
+    <string name="massiv_cen">Массив цен:%1$s</string>
+    <string name="itogo">Итог:%1$s</string>
+</resources>
