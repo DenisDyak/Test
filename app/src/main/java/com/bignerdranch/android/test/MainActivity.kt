@@ -1,4 +1,4 @@
-package com.bignerdranch.android.test
+﻿package com.bignerdranch.android.test
 
 import android.os.Bundle
 import android.widget.Button
@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity() {
 
         resultButton.setOnClickListener {
             try {
+		price2.clear()
                 decryptData(price, discount.text.toString().toInt(),
                                     offset.text.toString().toInt(),
                                     readLength.text.toString().toInt()).toString()
